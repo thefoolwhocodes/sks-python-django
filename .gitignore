@@ -1,0 +1,4 @@
+wserver/db.sqlite3
+wserver/wserver/__pycache__/
+.idea/
+
